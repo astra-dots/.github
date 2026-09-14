@@ -12,4 +12,10 @@ A configuration ecosystem for Arch Linux, KDE Plasma 6.4, and the Quickshell des
 
 ---
 
+## AI Development Assistance
+
+System configurations, technical refinements, automated deployment scripts, and ASD-STE100 technical documentation were created, adapted, and refined with the assistance of AI Large Language Models (LLMs).
+
+---
+
 Maintained by [@AnAnonymousPotato](https://github.com/AnAnonymousPotato).
